@@ -1,0 +1,15 @@
+# 🏠 Civil Floor Plan Generator (1800 sqft) - Python + DXF
+
+This project uses Python and the `ezdxf` library to generate a professional-style 2D civil plan layout of a 30x60 ft (1800 sqft) house with:
+
+✅ North-facing  
+✅ 9-inch walls  
+✅ Car parking area  
+✅ Staircase outside  
+✅ 2 windows per room  
+✅ AutoCAD-compatible .dxf output
+
+## 💻 How to Use
+
+1. Install the library:
+
